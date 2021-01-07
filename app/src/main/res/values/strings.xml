@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="date">date</string>
+    <string name="city">city</string>
+    <string name="country">country</string>
+    <string name="temp">temp</string>
+    <string name="main">main</string>
+    <string name="desc">desc</string>
+</resources>
